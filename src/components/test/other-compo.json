@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_test_other_compos",
+  "info": {
+    "displayName": "otherCompo",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "string": {
+      "type": "string"
+    }
+  }
+}

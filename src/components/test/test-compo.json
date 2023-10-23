@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_test_test_compos",
+  "info": {
+    "displayName": "testCompo",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "string": {
+      "type": "string"
+    },
+    "photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
